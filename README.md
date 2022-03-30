@@ -1,6 +1,5 @@
 # Olá 👋 eu sou <a href="https://github.com/DilvaQueiroz"> Dilva Queiroz </a>
 ### Bacharel em Sistemas de Informação (BSI) - UAST/UFRPE
-</br>
 
 ## 👩‍💻 Sobre mim
 <!-- - Atualmente, estou aprendendo e trabalhando com [PHP](https://www.php.net/) e [Laravel](https://laravel.com/). -->
