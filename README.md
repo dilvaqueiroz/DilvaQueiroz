@@ -35,8 +35,8 @@
 [![Trello](https://img.icons8.com/color/48/000000/trello.png)](https://trello.com/)
 [![PivotalTracker](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-pivotal-tracker-a-project-management-tool-for-developers-around-the-world-logo-color-tal-revivo.png)](https://www.pivotaltracker.com/)
 [![Git](https://img.icons8.com/color/40/000000/git.png)](https://git-scm.com/)
-[![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/)
 ![Terminal](https://img.icons8.com/color/40/000000/console.png)
+<!-- [![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/) -->
 <!-- [![Semantic](http://semantic-ui.com/images/logo.png)](https://semantic-ui.com/introduction/getting-started.html) -->
 
 ## 📚 O que estou estudando?
