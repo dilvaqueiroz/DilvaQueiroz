@@ -2,8 +2,9 @@
 ### Bacharel em Sistemas de Informação (BSI) - UAST/UFRPE
 
 ## 👩‍💻 Sobre mim
-- Atualmente, estou trabalhando com [PHP](https://www.php.net/) e [Laravel](https://laravel.com/).
-- Minhas linguagens favoritas são [JavaScript](https://www.javascript.com/) e [Java](https://docs.oracle.com/en/java/);
+- Atualmente, estou trabalhando com [React](https://reactjs.org/) e [Django](https://www.djangoproject.com/download/)
+- Já trabalhei com [Java](https://docs.oracle.com/en/java/), [PHP](https://www.php.net/) e [Laravel](https://laravel.com/).
+- Minha linguagem favorita é [JavaScript](https://www.javascript.com/);
 - Meu framework preferido é [React](https://reactjs.org/);
 
 ## 📊 Estatísticas
