@@ -22,7 +22,7 @@
 [![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/pt/)
 [![PHP](https://img.icons8.com/color/40/000000/php.png)](https://www.php.net/)
 [![Laravel](https://img.icons8.com/fluent/40/000000/laravel.png)](https://laravel.com/)
-[![Java](https://img.icons8.com/color/40/000000/java.png)](https://www.java.com/)
+[![Java](https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png)](https://www.java.com/)
 [![PostgreSQL](https://img.icons8.com/color/40/000000/postgreesql.png)](https://www.postgresql.org/)
 [![MySQL](https://img.icons8.com/color/48/000000/mysql-logo.png)](https://www.mysql.com/)
 <!--  -->
