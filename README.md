@@ -31,6 +31,7 @@
 [![Heroku](https://img.icons8.com/color/48/000000/heroku.png)](https://www.heroku.com/)
 [![VS Code](https://img.icons8.com/fluent/40/000000/visual-studio-code-2019.png)](https://code.visualstudio.com/)
 [![Figma](https://img.icons8.com/color/48/000000/figma--v1.png)](https://www.figma.com/)
+[![Clickup](https://img.icons8.com/bubbles/48/null/clickup.png)](https://app.clickup.com/)
 [![Notion](https://img.icons8.com/fluency/48/000000/notion.png)](https://www.notion.so/pt-br)
 [![Trello](https://img.icons8.com/color/48/000000/trello.png)](https://trello.com/)
 [![PivotalTracker](https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-pivotal-tracker-a-project-management-tool-for-developers-around-the-world-logo-color-tal-revivo.png)](https://www.pivotaltracker.com/)
