@@ -8,8 +8,7 @@
 - Meu framework preferido é [React](https://reactjs.org/);
 
 ## 📊 Estatísticas
-
-![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DilvaQueiroz&show_icons=true&theme=dark)
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DilvaQueiroz&show_icons=true&theme=dark) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilvaQueiroz&theme=dark&layout=compact)
 
 ## 🛠 Linguagens e Ferramentas
