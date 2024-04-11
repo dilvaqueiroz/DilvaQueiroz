@@ -39,11 +39,7 @@
 <!-- [![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/) -->
 <!-- [![Semantic](http://semantic-ui.com/images/logo.png)](https://semantic-ui.com/introduction/getting-started.html) -->
 
-## 📚 O que estou estudando?
-
-- [Next.js e React - Curso Completo - Aprenda com Projetos](https://www.udemy.com/course/nextjs-e-react/)
-<!-- [Formação Node.js](https://www.udemy.com/course/formacao-nodejs/)-->
-- [Desenvolvimento Web Completo 2022 - 20 cursos + 20 projetos](https://www.udemy.com/course/web-completo/learn/lecture/10397192?start=15#overview)
+<!--  ## 📚 O que estou estudando? -->
 
 ## Encontre-me
 [![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/dilvaqueiroz/)
