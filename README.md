@@ -1,17 +1,18 @@
-# Olá 👋 eu sou <a href="https://github.com/DilvaQueiroz"> Dilva Queiroz </a>
-### Bacharel em Sistemas de Informação (BSI) - UAST/UFRPE
+# Hi!👋 I am <a href="https://github.com/DilvaQueiroz"> Dilva Queiroz </a>
+### Bachelor in Information Systems (BSI) - UAST/UFRPE
 
-## 👩‍💻 Sobre mim
-- Atualmente, estou trabalhando com [React](https://reactjs.org/) e [Django](https://www.djangoproject.com/download/)
-- Já trabalhei com [Java](https://docs.oracle.com/en/java/), [PHP](https://www.php.net/) e [Laravel](https://laravel.com/).
-- Minha linguagem favorita é [JavaScript](https://www.javascript.com/);
-- Meu framework preferido é [React](https://reactjs.org/);
 
-## 📊 Estatísticas
+## 👩‍💻 About me
+- Currently, I am working with [React](https://reactjs.org/) and [Django](https://www.djangoproject.com/download/)
+- I have worked with [Java](https://docs.oracle.com/en/java/), [PHP](https://www.php.net/) and [Laravel](https://laravel.com/).
+- My favorite programming language is [JavaScript](https://www.javascript.com/);
+- My favorite framework is [React](https://reactjs.org/);
+
+## 📊 Statistics
 <!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DilvaQueiroz&show_icons=true&theme=dark) -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilvaQueiroz&theme=dark&layout=compact)
 
-## 🛠 Linguagens e Ferramentas
+## 🛠 Languages and Tools
 [![HTML5](https://img.icons8.com/color/40/000000/html-5.png)](https://devdocs.io/html/)
 [![CSS3](https://img.icons8.com/color/40/000000/css3.png)](https://devdocs.io/css/)
 [![Bootstrap](https://img.icons8.com/color/40/000000/bootstrap.png)](https://getbootstrap.com/)
@@ -39,9 +40,9 @@
 <!-- [![GitHub](https://img.icons8.com/fluent/40/000000/github.png)](https://github.com/) -->
 <!-- [![Semantic](http://semantic-ui.com/images/logo.png)](https://semantic-ui.com/introduction/getting-started.html) -->
 
-<!--  ## 📚 O que estou estudando? -->
+<!--  ## 📚 What am I studying? -->
 
-## Encontre-me
+## Find me
 [![Instagram](https://img.icons8.com/color/40/000000/instagram-new.png)](https://www.instagram.com/dilvaqueiroz/)
 [![Facebook](https://img.icons8.com/color/40/000000/facebook-new.png)](https://pt-br.facebook.com/dilva.queiroz)
 [![Linkedin](https://img.icons8.com/color/40/000000/linkedin.png)](https://www.linkedin.com/in/dilva-queir%C3%B3s-8335811b7/)
