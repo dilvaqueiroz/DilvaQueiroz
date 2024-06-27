@@ -20,6 +20,7 @@
 [![React](https://img.icons8.com/color/48/000000/react-native.png)](https://pt-br.reactjs.org/)
 [![Node](https://img.icons8.com/fluency/48/000000/node-js.png)](https://nodejs.org/en/)
 [![Material UI](https://img.icons8.com/color/48/000000/material-ui.png)](https://mui.com/pt/)
+[![Tailwind](https://img.icons8.com/?size=100&id=4PiNHtUJVbLs&format=png&color=000000)](https://tailwindcss.com/)
 [![PHP](https://img.icons8.com/color/40/000000/php.png)](https://www.php.net/)
 [![Laravel](https://img.icons8.com/fluent/40/000000/laravel.png)](https://laravel.com/)
 [![Java](https://img.icons8.com/fluency/48/null/java-coffee-cup-logo.png)](https://www.java.com/)
