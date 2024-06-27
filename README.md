@@ -1,4 +1,4 @@
-# Hi!👋 I am <a href="https://github.com/DilvaQueiroz"> Dilva Queiroz </a>
+# Hi!👋 I am <a href="https://github.com/DilvaQueiroz"> Dilva Queirós </a>
 ### Bachelor in Information Systems (BSI) - UAST/UFRPE
 
 
