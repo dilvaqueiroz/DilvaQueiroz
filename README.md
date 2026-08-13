@@ -9,8 +9,9 @@
 - My favorite framework is [React](https://reactjs.org/);
 
 ## 📊 Statistics
-<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DilvaQueiroz&show_icons=true&theme=dark) -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilvaQueiroz&theme=dark&layout=compact)
+<!-- ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=DilvaQueiroz&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DilvaQueiroz&theme=dark&layout=compact) -->
+![Top Langs](https://github-stats-extended.vercel.app/api/top-langs/?username=DilvaQueiroz&theme=dark&layout=compact)
 
 ## 🛠 Languages and Tools
 [![JavaScript](https://img.icons8.com/color/40/000000/javascript.png)](https://www.javascript.com/)
